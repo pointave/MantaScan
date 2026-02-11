@@ -1,0 +1,7 @@
+pillow
+numpy
+scikit-learn
+insightface
+onnx
+onnxruntime-gpu
+opencv-python
